@@ -26,7 +26,7 @@ We use PowerQuery of Power BI for this
 Transform Data
 
 1. Finding Void Entries
-> Home > Column Quality
+ Home > Column Quality
 ![Image description](Data_Transformation/missing.png)
 > Ordering the column in assending order 
 > we get all the null values at the top 
