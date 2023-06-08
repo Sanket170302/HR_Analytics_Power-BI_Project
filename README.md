@@ -27,26 +27,40 @@ Transform Data
 
 1. Finding Void Entries
  Home > Column Quality
+ Users can leverage this information to identify and address any data quality issues within the column. They can perform tasks such as handling missing or inconsistent values, correcting data types, and applying transformations to improve the overall quality and reliability of the data.
+ 
 ![Image description](Data_Transformation/missing.png)
+
 Ordering the column in assending order 
 we get all the null values at the top 
 ![Image description](Data_Transformation/assending.png)
+
+
 Now removing top rows by Remove Rows > Remove Top Rows
+The "Remove Rows" option in Power BI allows users to eliminate specific rows or subsets of data from their dataset. This feature is beneficial for data cleansing, filtering, and refining data sets to focus on specific requirements or remove irrelevant or erroneous data.
+
 ![Image description](Data_Transformation/Remove_TopRows.png)
 
 2. Finding Dupplicates
 Removing Duplicate values 
 Group by > Grouping by distinct value
+
+The "Group By" option in Power BI enables users to group data based on one or more columns within a dataset. By selecting the "Group By" feature, users can define grouping criteria and aggregate data within each group, resulting in a summarized view of the data.
 ![Image description](Data_Transformation/duplicates.png)
-Filter will show 2
+Filter will show numeric two which indicates the presence of duplicate values
+
 ![Image description](Data_Transformation/dupl.png)
+
 Selecting all the columns and removing the duplicates
+
 ![Image description](Data_Transformation/duplicate_all_remove.png)
 
 3. Correcting Misc Errors
 Misc Case : We replace the error 
+It allows us to modify specific values within a column or dataset. By selecting the "Replace By" feature, users can define the values they want to replace and specify the replacement values.
 ![Image description](Data_Transformation/misc.png)
 Data Type Correction by Detect Data Type
+It automatically identifies the most appropriate data type for each column within a dataset. When enabled, Power BI analyzes the data values in the selected column and suggests the data type that best matches the content.
 ![Image description](Data_Transformation/data_type.png)
 
 
