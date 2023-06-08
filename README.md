@@ -31,6 +31,7 @@ Transform Data
 ![Image description](Data_Transformation/duplicates.png)
 ![Image description](Data_Transformation/dupl.png)
 ![Image description](Data_Transformation/duplicate all remove.png)
+
 3. Correcting Misc Errors
 ![Image description](Data_Transformation/misc.png)
 ![Image description](Data_Transformation/data type.png)
