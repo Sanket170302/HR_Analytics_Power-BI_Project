@@ -28,30 +28,30 @@ Transform Data
 1. Finding Void Entries
  Home > Column Quality
 ![Image description](Data_Transformation/missing.png)
-> Ordering the column in assending order 
-> we get all the null values at the top 
+Ordering the column in assending order 
+we get all the null values at the top 
 ![Image description](Data_Transformation/assending.png)
->Now removing top rows by Remove Rows > Remove Top Rows
+Now removing top rows by Remove Rows > Remove Top Rows
 ![Image description](Data_Transformation/Remove_TopRows.png)
 
 2. Finding Dupplicates
-> Removing Duplicate values 
-> Group by > Grouping by distinct value
+Removing Duplicate values 
+Group by > Grouping by distinct value
 ![Image description](Data_Transformation/duplicates.png)
->Filter will show 2
+Filter will show 2
 ![Image description](Data_Transformation/dupl.png)
->Selecting all the columns and removing the duplicates
+Selecting all the columns and removing the duplicates
 ![Image description](Data_Transformation/duplicate_all_remove.png)
 
 3. Correcting Misc Errors
-> Misc Case : We replace the error 
+Misc Case : We replace the error 
 ![Image description](Data_Transformation/misc.png)
-> Data Type Correction by Detect Data Type
+Data Type Correction by Detect Data Type
 ![Image description](Data_Transformation/data_type.png)
 
 
 4. Creating Dashboard
-> HR_Analytics_Dashboard
+HR_Analytics_Dashboard
 ![Image description](Data_Transformation/Dashboard.png)
 
 > HR_Analytics_Dashboard for Human Resource Department 
