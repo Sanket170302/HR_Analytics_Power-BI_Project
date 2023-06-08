@@ -24,10 +24,19 @@ We use PowerQuery of Power BI for this
 Transform Data
 
 1. Finding Void Entries
-![Image description](Data_Transformation/rows.png)
+![Image description](Data_Transformation/missing.png)
+
+![Image description](Data_Transformation/assending.png)
 2. Finding Dupplicates
-
+![Image description](Data_Transformation/duplicates.png)
+![Image description](Data_Transformation/dupl.png)
+![Image description](Data_Transformation/duplicate all remove.png)
 3. Correcting Misc Errors
+![Image description](Data_Transformation/misc.png)
+![Image description](Data_Transformation/data type.png)
 
-
+![Image description](Data_Transformation/Dashboard.png)
+![Image description](Data_Transformation/HumanResource.png)
+![Image description](Data_Transformation/R&D.png)
+![Image description](Data_Transformation/Sales.png)
 
