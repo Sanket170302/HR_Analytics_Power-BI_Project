@@ -18,7 +18,7 @@ For this we use Pivot Table
 So using Pivot Tables
 We obtain some trends which makes sense according to the project.
 
-Step 3:-
+Step 3:- 
 DATA CLEANING AND PROCESSING
 We use PowerQuery of Power BI for this
 Transform Data
