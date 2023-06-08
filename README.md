@@ -1,26 +1,28 @@
 # Power-BI-Project_HR_Analytics
 
 #Objective:
-Help an organization to improve employee performance and improve employee retension i.e reduce attrition by creating a HR Analytics dashboard
+
+The organization seeks support in the creation of an HR Analytics dashboard to address the challenge of enhancing employee performance and bolstering employee retention, thereby mitigating attrition rates. The problem statement entails identifying viable solutions to be integrated into the dashboard, empowering the organization to extract valuable insights from data and make informed decisions. By leveraging these insights, the organization aims to cultivate a conducive environment for employee engagement and satisfaction, ultimately fostering a higher degree of employee retention.
 
 #Solution:
-To make a Dashboard
+
+The solution involves creating an HR Analytics dashboard to consolidate employee performance and retention metrics. By leveraging advanced analytics techniques, the dashboard will provide actionable insights for data-driven decision-making, enabling the organization to improve employee performance and retention effectively.
 
 #Procedures
 Step 1:- 
 Determining KPI(Key Performance Indicators) which we obtain by analysing and uderstanding the problem and its objective.
 
 Step 2:-
-Finding the trends which are relevant for the project
-For this we use Pivot Table
+
+The project involves identifying relevant trends by utilizing Pivot Tables for data analysis. This approach helps extract key insights and patterns from the data efficiently.
 (However if using a csv file note that you cannot make pivots as it doesnt allow multiple sheets)
 
-So using Pivot Tables
-We obtain some trends which makes sense according to the project.
+We obtain trends which reflects relevant and important insights according to the project.
 
 Step 3:- 
 DATA CLEANING AND PROCESSING
 We use PowerQuery of Power BI for this
+
 Transform Data
 
 1. Finding Void Entries
