@@ -54,12 +54,12 @@ Data Type Correction by Detect Data Type
 HR_Analytics_Dashboard
 ![Image description](Data_Transformation/Dashboard.png)
 
-> HR_Analytics_Dashboard for Human Resource Department 
+HR_Analytics_Dashboard for Human Resource Department 
 ![Image description](Data_Transformation/HumanResource.png)
 
-> HR_Analytics_Dashboard for Research and Development 
+HR_Analytics_Dashboard for Research and Development 
 ![Image description](Data_Transformation/R&D.png)
 
-> HR_Analytics_Dashboard for Sales
+HR_Analytics_Dashboard for Sales
 ![Image description](Data_Transformation/Sales.png)
 
