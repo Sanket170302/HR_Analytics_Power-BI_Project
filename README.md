@@ -24,7 +24,7 @@ We use PowerQuery of Power BI for this
 Transform Data
 
 1. Finding Void Entries
-
+![Image description](image_url)
 2. Finding Dupplicates
 
 3. Correcting Misc Errors
