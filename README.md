@@ -32,7 +32,7 @@ Transform Data
 > we get all the null values at the top 
 ![Image description](Data_Transformation/assending.png)
 >Now removing top rows by Remove Rows > Remove Top Rows
-![Image description](Data_Transformation/Remove TopRows.png)
+![Image description](Data_Transformation/Remove_TopRows.png)
 
 2. Finding Dupplicates
 > Removing Duplicate values 
@@ -41,13 +41,13 @@ Transform Data
 >Filter will show 2
 ![Image description](Data_Transformation/dupl.png)
 >Selecting all the columns and removing the duplicates
-![Image description](Data_Transformation/duplicate all remove.png)
+![Image description](Data_Transformation/duplicate_all_remove.png)
 
 3. Correcting Misc Errors
 > Misc Case : We replace the error 
 ![Image description](Data_Transformation/misc.png)
 > Data Type Correction by Detect Data Type
-![Image description](Data_Transformation/data type.png)
+![Image description](Data_Transformation/data_type.png)
 
 
 4. Creating Dashboard
